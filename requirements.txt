@@ -1,0 +1,6 @@
+playwright
+fastapi
+uvicorn
+pydantic
+requests
+Pillow
